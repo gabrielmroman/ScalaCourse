@@ -1,0 +1,8 @@
+coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+    org.scalacheck:scalacheck_2.11:1.12.1:
+        download error: Caught java.net.ConnectException: Connection timed out: connect (Connection timed out: connect) while downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1.pom
+        not found: C:\Users\marian.roman\.ivy2\local\org.scalacheck\scalacheck_2.11\1.12.1\ivys\ivy.xml
+[error] (*:coursierResolutions) coursier.ResolutionException: Encountered 1 error(s) in dependency resolution:
+[error]     org.scalacheck:scalacheck_2.11:1.12.1:
+[error]         download error: Caught java.net.ConnectException: Connection timed out: connect (Connection timed out: connect) while downloading https://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.11/1.12.1/scalacheck_2.11-1.12.1.pom
+[error]         not found: C:\Users\marian.roman\.ivy2\local\org.scalacheck\scalacheck_2.11\1.12.1\ivys\ivy.xml
